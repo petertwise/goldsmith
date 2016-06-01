@@ -189,13 +189,13 @@ li {
 
 footer {
   margin-top: 50px;
-  border-top: 1px solid #aaa;
+  border-top: 1px solid #ddd;
   padding: 50px;
   font-size: 0.85em;
 }
 header {
-  border-bottom: 1px solid #aaa;
-  margin-bottom: 30px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 40px;
 }
 
 
